@@ -29,7 +29,7 @@ write_tga_file(const char *filepath /* , bool rle */)
 
     TGA_Header header;
 
-    memset((void 
+    // memset((void 
 
 }
 
