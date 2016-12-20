@@ -4,7 +4,7 @@ LDFLAGS      = -Werror -Wshadow -Wconversion -Wunreachable-code -Wundef -pedanti
 LIBS         = -lm
 
 DESTDIR = ./
-TARGET  = aa
+TARGET  = test1
 
 OBJECTS := $(patsubst %.c,%.o,$(wildcard *.c))
 

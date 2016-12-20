@@ -1,0 +1,14 @@
+test1:
+    TGAColor_create
+
+    TGAImage_create
+
+    TGAImage_set
+
+    TGAImage_flip
+
+    write_tga_file
+
+    TGAColor_destroy
+
+    TGAImage_destroy
