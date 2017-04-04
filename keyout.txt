@@ -1,0 +1,759 @@
+framebuf_render
+seconds: 0.000000
+type:    4
+code:    4
+value:   458792
+
+seconds: 0.000000
+type:    1
+code:    28
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458772
+
+seconds: 0.000000
+type:    1
+code:    16
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458772
+
+seconds: 0.000000
+type:    1
+code:    16
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458778
+
+seconds: 0.000000
+type:    1
+code:    17
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458778
+
+seconds: 0.000000
+type:    1
+code:    17
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458760
+
+seconds: 0.000000
+type:    1
+code:    18
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458760
+
+seconds: 0.000000
+type:    1
+code:    18
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458773
+
+seconds: 0.000000
+type:    1
+code:    19
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458773
+
+seconds: 0.000000
+type:    1
+code:    19
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458775
+
+seconds: 0.000000
+type:    1
+code:    20
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458775
+
+seconds: 0.000000
+type:    1
+code:    20
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458780
+
+seconds: 0.000000
+type:    1
+code:    21
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458780
+
+seconds: 0.000000
+type:    1
+code:    21
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458776
+
+seconds: 0.000000
+type:    1
+code:    22
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458776
+
+seconds: 0.000000
+type:    1
+code:    22
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458764
+
+seconds: 0.000000
+type:    1
+code:    23
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458764
+
+seconds: 0.000000
+type:    1
+code:    23
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458770
+
+seconds: 0.000000
+type:    1
+code:    24
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458770
+
+seconds: 0.000000
+type:    1
+code:    24
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458771
+
+seconds: 0.000000
+type:    1
+code:    25
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458771
+
+seconds: 0.000000
+type:    1
+code:    25
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458799
+
+seconds: 0.000000
+type:    1
+code:    26
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458799
+
+seconds: 0.000000
+type:    1
+code:    26
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458800
+
+seconds: 0.000000
+type:    1
+code:    27
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458800
+
+seconds: 0.000000
+type:    1
+code:    27
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458756
+
+seconds: 0.000000
+type:    1
+code:    30
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458756
+
+seconds: 0.000000
+type:    1
+code:    30
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458774
+
+seconds: 0.000000
+type:    1
+code:    31
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458774
+
+seconds: 0.000000
+type:    1
+code:    31
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458759
+
+seconds: 0.000000
+type:    1
+code:    32
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458759
+
+seconds: 0.000000
+type:    1
+code:    32
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458761
+
+seconds: 0.000000
+type:    1
+code:    33
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458761
+
+seconds: 0.000000
+type:    1
+code:    33
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458762
+
+seconds: 0.000000
+type:    1
+code:    34
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458762
+
+seconds: 0.000000
+type:    1
+code:    34
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458763
+
+seconds: 0.000000
+type:    1
+code:    35
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458763
+
+seconds: 0.000000
+type:    1
+code:    35
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458765
+
+seconds: 0.000000
+type:    1
+code:    36
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458765
+
+seconds: 0.000000
+type:    1
+code:    36
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458766
+
+seconds: 0.000000
+type:    1
+code:    37
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458766
+
+seconds: 0.000000
+type:    1
+code:    37
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458766
+
+seconds: 0.000000
+type:    1
+code:    37
+value:   1
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458767
+
+seconds: 0.000000
+type:    1
+code:    38
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458766
+
+seconds: 0.000000
+type:    1
+code:    37
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458767
+
+seconds: 0.000000
+type:    1
+code:    38
+value:   0
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    4
+code:    4
+value:   458794
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   1
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   0
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   1
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   1
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   1
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   1
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   1
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   1
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0
+value:   1
+
+seconds: 0.000000
+type:    1
+code:    14
+value:   2
+
+seconds: 0.000000
+type:    0
+code:    0

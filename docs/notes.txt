@@ -1,0 +1,14 @@
+hash table -> mesa/src/util/hash_table.c
+
+mesa/src/util/u_vector.* vector based queue for storing arbitary sized arrays
+of objects without using a linked list
+
+dlfcn.h -> dynamic loading of libraries using dlopen() and dlclose()
+
+asm/cpu/atomic ops: linux 4.8.1/arch/x86/lib
+
+linux-4.8.1/arch/x86/math-emu/: asm fpu math instructions
+
+typedef enum {
+    FALSE = 0, TRUE = !FALSE
+} bool;
